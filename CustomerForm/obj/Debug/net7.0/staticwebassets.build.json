@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "MSnvxDZK3wmfs5Tp3Pgrk0DlJNOTHdJ4sHuJAtvLYKc=",
+  "Source": "CustomerForm",
+  "BasePath": "_content/CustomerForm",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CustomerForm\\wwwroot",
+      "Source": "CustomerForm",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\Yeni klasör (3)\\CustomerForm\\wwwroot\\",
+      "BasePath": "_content/CustomerForm",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
